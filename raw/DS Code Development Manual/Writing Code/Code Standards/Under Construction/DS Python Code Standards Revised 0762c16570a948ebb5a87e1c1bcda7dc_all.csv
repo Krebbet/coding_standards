@@ -1,0 +1,24 @@
+﻿Standard,Last Edit,Level
+Path Concat with os.path.join() or pathlib,"April 5, 2023 6:43 PM",Hard
+"Function, Comment, and Argument Lengths","April 5, 2023 6:44 PM",Variable
+String Combinations,"April 5, 2023 6:41 PM",Variable
+Avoid Unnecessary Conditionals,"April 5, 2023 6:26 PM",Soft
+"Docstring Format, Type Hinting and Default Arguments","April 5, 2023 6:26 PM",Hard
+Requirement files must include specific versioning (draft),"April 5, 2023 6:44 PM",Variable
+Setting Up Directory Paths,"April 5, 2023 6:42 PM",Variable
+Log Not Print,"April 5, 2023 6:42 PM",Variable
+Comments & Code Line Breaks,"April 5, 2023 6:26 PM",Hard
+Remove Commented Code / TODOs in Final Push to Master,"April 5, 2023 6:45 PM",Variable
+Avoid Wildcard Imports,"April 5, 2023 6:26 PM",Hard
+"Library Imports Format & Organization ","April 5, 2023 6:26 PM",Hard
+Plotting Defaults,"April 5, 2023 6:44 PM",Hard
+Library Imports are Used & Placed at Top,"April 5, 2023 6:28 PM",Hard
+"Pandas: Vector, Lambda.apply(), Iterrows Efficiency","April 5, 2023 6:42 PM",Variable
+Remove Unused and Hardcoded Variables,"April 5, 2023 6:26 PM",Hard
+"Class Attributes Defined in Constructor ","April 5, 2023 6:43 PM",Hard
+Avoid Mutable Function Arguments,"April 5, 2023 6:42 PM",Hard
+Return Types Must Match,"April 5, 2023 6:43 PM",Hard
+Double Inverted Commas for Strings,"April 5, 2023 6:46 PM",Medium
+PEP8 is the Default Standard,"April 5, 2023 6:28 PM",Hard
+"Headers with Comments to Separate Code Sections ","April 5, 2023 6:46 PM",Medium
+Remove Commented Code,"April 5, 2023 6:45 PM",Hard

@@ -1,0 +1,35 @@
+﻿Standard,Level,Constraint,Last Edit,Project Types
+PEP8 is the Default Standard,"Notebook, Repo",Hard,"June 17, 2024 3:00 PM","GA, MVP, POC"
+Library Imports are Used & Placed at Top,"Library, Notebook",Hard,"October 26, 2023 2:22 PM","GA, MVP, POC"
+"Library Imports Format & Organization ","Library, Notebook",Hard,"November 25, 2025 12:23 PM","GA, MVP, POC"
+Avoid Wildcard Imports,Library,Hard,"July 22, 2025 9:37 AM","GA, MVP, POC"
+Remove Unused and Hardcoded Variables,"Function, Notebook cell",Hard,"July 22, 2025 9:39 AM","GA, MVP, POC"
+"Docstring Format, Type Hinting and Default Arguments","Documentation, Function",Hard,"July 22, 2025 9:44 AM","GA, MVP, POC"
+Comments & Code Line Breaks,"Documentation, Function, Library, Notebook cell",Hard,"October 26, 2023 2:22 PM","GA, MVP, POC"
+String Combinations,"Class, Documentation, Function, Notebook cell",Hard,"June 17, 2024 3:04 PM","GA, MVP, POC"
+Setting Up Directory Paths,Repo,Hard,"October 26, 2023 2:22 PM","GA, MVP, POC"
+"Pandas: Vector, Lambda.apply(), Iterrows Efficiency","Function, Notebook cell",Hard,"July 22, 2025 9:52 AM","GA, MVP, POC"
+Avoid Mutable Function Arguments,Function,Hard,"October 26, 2023 2:22 PM","GA, MVP, POC"
+Log Not Print,"Class, Function, Library",Hard,"June 17, 2024 3:08 PM","GA, MVP, POC"
+"Path Concat with os.path.join() ","Class, Function, Library, Notebook cell",Hard,"October 26, 2023 2:22 PM","GA, MVP, POC"
+Return Types Must Match,Function,Hard,"October 26, 2023 2:22 PM","GA, MVP, POC"
+"Class Attributes Defined in Constructor ",Class,Hard,"October 26, 2023 2:22 PM","GA, MVP, POC"
+Plotting Defaults,Notebook,Hard,"October 26, 2023 2:22 PM","GA, MVP, POC"
+Requirement files must include specific versioning (draft),"Library, Repo",Hard,"June 17, 2024 3:09 PM","GA, MVP, POC"
+PEP8 Naming,"Class, Documentation, Function, Library",Hard,"October 26, 2023 2:24 PM","GA, MVP, POC"
+Logging Configuration Location,Repo,Hard,"July 17, 2025 3:40 PM","GA, MVP, POC"
+Logger Instantiation,Repo,Hard,"July 17, 2025 3:38 PM","GA, MVP, POC"
+Customizing Logging Behavior,Repo,Hard,"July 17, 2025 5:28 PM","GA, MVP, POC"
+Double Inverted Commas for Strings,Documentation,Medium,"October 26, 2023 2:22 PM","GA, MVP, POC"
+"Function, Comment, and Argument Lengths",Function,Medium,"October 26, 2023 2:23 PM","GA, MVP, POC"
+Remove Commented Code / TODOs in Final Merge to Master,Repo,Medium,"June 17, 2024 4:21 PM","GA, MVP, POC"
+Try and Except,"Class, Function, Library",Medium,"June 12, 2024 4:02 PM","GA, MVP, POC"
+"Headers with Comments to Separate Code Sections ","Documentation, Library",Soft,"June 17, 2024 4:20 PM","GA, MVP"
+FIXME and TODOs During Development,"Documentation, Repo",Soft,"April 4, 2023 3:58 PM",
+TQDM for Iterators,Notebook cell,Soft,"September 15, 2025 1:34 PM",
+Benchit for Benchmarking,Notebook cell,Soft,"April 4, 2023 3:58 PM",
+Avoid Unnecessary Conditionals,Function,Soft,"October 26, 2023 2:29 PM","GA, MVP, POC"
+Preamble for Scripts,"Documentation, Library",Soft,"October 26, 2023 2:29 PM","GA, MVP"
+Notebook defaults (max cols etc),Documentation,Soft,"April 4, 2023 3:58 PM",
+Unit Tests Throughout,"Class, Function, Repo",Soft,"October 26, 2023 3:32 PM",GA
+Integration Tests Throughout,"Class, Library, Repo",Soft,"October 26, 2023 3:36 PM",GA

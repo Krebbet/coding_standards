@@ -1,0 +1,49 @@
+# Python Plotting Defaults
+
+## Plotting Defaults
+
+In general always use the consistent SFL template defined here and also the [Plotting Guidelines](../Plotting%20Guidelines%20958bddce6249484cb9912569292a306a.md) 
+
+**SFL Defaults**
+
+```python
+%matplotlib inline
+%config InlineBackend.figure_format='retina'
+
+def sfl_defaults():
+	plt.style.use('classic')
+	plt.rcParams['figure.figsize'] = [8.0, 5.0]
+	plt.rcParams['figure.facecolor']='w'
+
+	# text size
+	plt.rcParams['xtick.labelsize']=14
+	plt.rcParams['ytick.labelsize']=14
+	plt.rcParams['axes.labelsize']=15
+	plt.rcParams['axes.titlesize']=16
+	plt.rcParams['legend.fontsize']=12
+
+	# grids
+	plt.rcParams['grid.color'] = 'k'
+	plt.rcParams['grid.linestyle'] = ':'
+	plt.rcParams['grid.linewidth'] = 0.5
+
+	print('SFL style loaded...')
+```
+
+**SFL Executive Defaults**
+
+```python
+# most changes accessible from matplotlib.rcParams
+# https://matplotlib.org/stable/api/matplotlib_configuration_api.html
+
+def exec_defaults()
+	
+	# borders
+	plt.rcParams['axes.spines.right']=False
+	plt.rcParams['axes.spines.top']=False
+
+	plt.rcParams['axes.titlesize']=
+	plt.rcParams['axes.titleweight']
+```
+
+![](../Code%20Standards/Code%20Standards%20Overview/Plotting%20Defaults/download_-_2021-05-25T125029.452.png)
